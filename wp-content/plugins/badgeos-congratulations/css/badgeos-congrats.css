@@ -1,0 +1,47 @@
+#TB_title {
+	background: #111;
+	color: #eee;
+}
+#TB_ajaxContent {
+	background: #eee;
+}
+#TB_closeWindowButton {
+	color:#fff;
+}
+.badgeos-congrats-achievement {
+	background: #fff;
+	padding:1em 2em;
+	margin:1em;
+	border-radius:8px;
+	position: relative;
+	overflow: hidden;
+}
+.badgeos-congrats-achievement .title {
+	font-size: 2em;
+	line-height:1.4em;
+	font-weight: bold;
+}
+.badgeos-congrats-achievement .image {
+	max-width:20%;
+	position: relative;
+	float: left;
+}
+.badgeos-congrats-achievement .content {
+	max-width:75%;
+	padding-left:1em;
+	position: relative;
+	float: left;
+}
+#TB_window .badgeos-congrats-achievement .button,
+#TB_window .badgeos-congrats-achievement .button:visited {
+	display: block;
+	background: #333;
+	color: #eee;
+	font-size: 1.2em;
+	text-decoration: none;
+	padding: .5em 1em;
+	margin:.5em 0;
+	border-radius: 3px;
+	position: relative;
+	float: left;
+}

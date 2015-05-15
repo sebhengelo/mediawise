@@ -1,0 +1,1060 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WPLMS Dashboard\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-05-04 18:08+0530\n"
+"PO-Revision-Date: 2015-05-04 18:08+0530\n"
+"Last-Translator: vibethemes@gmail.com <vibethemes@gmail.com>\n"
+"Language-Team: VibeThemes <vibethemes@gmai.com>\n"
+"Language: fa_IR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.3\n"
+"X-Poedit-Basepath: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-"
+"dashboard\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: /Applications/MAMP/htdocs/wplms/wp-content/plugins/"
+"wplms-dashboard\n"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/autoupdate/class-envato-protected-api.php:67
+msgid "Please enter your Envato Marketplace Username."
+msgstr "لطفا نام کاربری Envato Marketplace  را وارد کنید"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/autoupdate/class-envato-protected-api.php:71
+msgid "Please enter your Envato Marketplace API Key."
+msgstr "لطفا Envato Marketplace API Key را وارد کنید"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/autoupdate/class-envato-protected-api.php:96
+msgid "The API \"set\" is a required parameter."
+msgstr "API \"set\"  ضروری است"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/autoupdate/class-envato-protected-api.php:167
+msgid "The Envato Marketplace \"item ID\" is a required parameter."
+msgstr " Envato Marketplace \"item ID\"  ضروری است"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/autoupdate/class-plugin-update.php:376
+msgid "An Unexpected HTTP Error occurred during the API request."
+msgstr "هنگام درخواست API خطایی رخ داده"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/autoupdate/class-plugin-update.php:376
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/autoupdate/class-plugin-update.php:541
+msgid "Try again"
+msgstr "دوباره سعی کنید"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/autoupdate/class-plugin-update.php:417
+msgid "An unknown error occurred"
+msgstr "خطای ناشناخته"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/autoupdate/class-plugin-update.php:453
+msgid ""
+"The plugin has been updated, but could not be reactivated. Please reactivate "
+"it manually."
+msgstr ""
+"افزونه به روز رسانی شد اما در فعال کردن آن مشکلی بروز کرده لطفا افزونه را به "
+"صورت دستی فعال کنید"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/autoupdate/class-plugin-update.php:454
+msgid "Plugin reactivated successfully. "
+msgstr "افزونه با موفقیت به روز رسانی شد"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/autoupdate/class-plugin-update.php:476
+msgid " Plugin Updates"
+msgstr "افزونه به روز رسانی شد"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/autoupdate/class-plugin-update.php:515
+msgid "Username: "
+msgstr "نام کاربری: "
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/autoupdate/class-plugin-update.php:519
+msgid "Email: "
+msgstr "رایانامه"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/autoupdate/class-plugin-update.php:525
+msgid "Key: "
+msgstr "کلید: "
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/autoupdate/class-plugin-update.php:531
+msgid "<p>Your plugin update is <span style=\"color:green\">active</span></p>"
+msgstr "<p>به روز رسانی افزونه شما <span style=\"color:green\">فعال</span></p>"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/autoupdate/class-plugin-update.php:535
+msgid ""
+"<p>Your input is <span style=\"color:red\">not valid</span>, automatic "
+"updates is <span style=\"color:red\">not active</span>.</p>"
+msgstr ""
+"<p>ورودی شما <span style=\"color:red\">اجازه ندارید</span>, به روز رسانی "
+"خودکار<span style=\"color:red\">غیر فعال است</span>.</p>"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/autoupdate/class-plugin-update.php:536
+msgid "Edit Key"
+msgstr "ویرایش کلید"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/autoupdate/class-plugin-update.php:540
+msgid "<p>Unable to validate update activation.</p>"
+msgstr "<p>قادر به فعال کردن به روز رساانی نیست.</p>"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/autoupdate/class-plugin-update.php:546
+msgid "Add Key"
+msgstr "اضافه کردن کلید"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/autoupdate/class-plugin-update.php:632
+msgid "User name"
+msgstr "نام کاربری"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/autoupdate/class-plugin-update.php:638
+msgid "Email"
+msgstr "رایانامه"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/autoupdate/class-plugin-update.php:647
+msgid "Themeforest User name ( for Auto-Updates )"
+msgstr "نام کاربری تم فارست (ضروری)"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/dashboard.php:44
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/dashboard.php:58
+msgid "Dashboard"
+msgstr "صفحه شخصی"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/dashboard.php:73
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/news.php:194
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/news.php:232
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/news.php:233
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/news.php:234
+msgid "News"
+msgstr "اخبار"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/functions.php:42
+msgid "Student Sidebar"
+msgstr "نوار کناری دانش پذیر"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/functions.php:48
+msgid "This is the dashboard sidebar for Students"
+msgstr "این نوار کناری داشبورد دانش پذیر است"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/functions.php:51
+msgid "Instructor Sidebar"
+msgstr "نوار کناری استاد"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/functions.php:57
+msgid "This is the dashboard sidebar for Instructors"
+msgstr "اینن نوار کناری اساتید است"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/news_template.php:23
+msgid "Course News"
+msgstr "اخبار دوره ها"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/news_template.php:38
+msgid "Read More"
+msgstr "ادامه مطلب"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/news_template.php:44
+msgid "No news available for Course"
+msgstr "اخبار جدیدی در مورد دوره وجود ندارد"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/instructor/announcements.php:14
+#, fuzzy
+msgid "announcement Widget for Dashboard"
+msgstr "ویجت اعلامیه برای داشبورد"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/instructor/announcements.php:16
+#, fuzzy
+msgid " DASHBOARD : Instructor announcement Widget"
+msgstr "داشبورد: ویجت اعلامیه استاد"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/instructor/announcements.php:63
+#, fuzzy
+msgid "Add announcement"
+msgstr "اضافه کردن اعلامیه"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/instructor/announcements.php:64
+msgid "Send announcement to student in courses"
+msgstr "فرستادن اعلامیه به دانش پذیران دوره ها"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/instructor/announcements.php:70
+msgid "All Students"
+msgstr "همه دانش پذیران"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/instructor/announcements.php:71
+msgid "Students who are pursuing the course"
+msgstr "دانش پذیرانی که دوره را دنبال می کنند"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/instructor/announcements.php:72
+msgid "Students who finished the coruse"
+msgstr "دانش پذیرانی که دوره را به اتمام رسانده اند"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/instructor/announcements.php:73
+msgid "Everyone"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/instructor/announcements.php:76
+msgid "Submit"
+msgstr "ثبت نام"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/instructor/announcements.php:94
+#, fuzzy
+msgid "announcement"
+msgstr "اعلامیه"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/instructor/announcements.php:103
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/instructor/dash_instructor_stats.php:268
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/instructor/instructing_modules.php:66
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/instructor/instructor_commissions.php:118
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/instructor/instructor_stats.php:170
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/activity_widget.php:181
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/calendar.php:104
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/contact_users.php:96
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/course_progress.php:152
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/dash_stats.php:202
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/my_modules.php:218
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/news.php:204
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/notes_discussions.php:111
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/student_stats.php:319
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/text_widget.php:66
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/todo_task.php:92
+msgid "Title:"
+msgstr "عنوان: "
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/instructor/announcements.php:108
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/instructor/dash_instructor_stats.php:293
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/instructor/instructing_modules.php:75
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/instructor/instructor_commissions.php:122
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/instructor/instructor_stats.php:182
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/activity_widget.php:201
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/calendar.php:116
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/contact_users.php:104
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/course_progress.php:164
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/dash_stats.php:216
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/my_modules.php:246
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/news.php:212
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/notes_discussions.php:119
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/student_stats.php:359
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/text_widget.php:75
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/todo_task.php:104
+msgid "Select Width"
+msgstr "انتخاب عرض"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/instructor/announcements.php:110
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/instructor/dash_instructor_stats.php:295
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/instructor/instructing_modules.php:77
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/instructor/instructor_commissions.php:124
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/instructor/instructor_stats.php:184
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/activity_widget.php:203
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/calendar.php:118
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/contact_users.php:106
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/course_progress.php:166
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/dash_stats.php:218
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/my_modules.php:248
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/news.php:214
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/notes_discussions.php:121
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/student_stats.php:361
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/text_widget.php:77
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/todo_task.php:106
+msgid "One Fourth"
+msgstr "یک چهارم"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/instructor/announcements.php:111
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/instructor/dash_instructor_stats.php:296
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/instructor/instructing_modules.php:78
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/instructor/instructor_commissions.php:125
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/instructor/instructor_stats.php:185
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/activity_widget.php:204
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/calendar.php:119
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/contact_users.php:107
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/course_progress.php:167
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/dash_stats.php:219
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/my_modules.php:249
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/news.php:215
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/notes_discussions.php:122
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/student_stats.php:362
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/text_widget.php:78
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/todo_task.php:107
+msgid "One Third"
+msgstr "یک سوم"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/instructor/announcements.php:112
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/instructor/dash_instructor_stats.php:297
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/instructor/instructing_modules.php:79
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/instructor/instructor_commissions.php:126
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/instructor/instructor_stats.php:186
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/activity_widget.php:205
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/calendar.php:120
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/contact_users.php:108
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/course_progress.php:168
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/dash_stats.php:220
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/my_modules.php:250
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/news.php:216
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/notes_discussions.php:123
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/student_stats.php:363
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/text_widget.php:79
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/todo_task.php:108
+msgid "One Half"
+msgstr "نصف"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/instructor/announcements.php:113
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/instructor/dash_instructor_stats.php:298
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/instructor/instructing_modules.php:80
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/instructor/instructor_commissions.php:127
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/instructor/instructor_stats.php:187
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/activity_widget.php:206
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/calendar.php:121
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/contact_users.php:109
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/course_progress.php:169
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/dash_stats.php:221
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/my_modules.php:251
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/news.php:217
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/notes_discussions.php:124
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/student_stats.php:364
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/text_widget.php:80
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/todo_task.php:109
+msgid "Two Third"
+msgstr "دو سوم"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/instructor/announcements.php:114
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/instructor/dash_instructor_stats.php:299
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/instructor/instructing_modules.php:81
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/instructor/instructor_commissions.php:128
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/instructor/instructor_stats.php:188
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/activity_widget.php:207
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/calendar.php:122
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/contact_users.php:110
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/course_progress.php:170
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/dash_stats.php:222
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/my_modules.php:252
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/news.php:218
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/notes_discussions.php:125
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/student_stats.php:365
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/text_widget.php:81
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/todo_task.php:110
+msgid "Three Fourth"
+msgstr "سه چهارم"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/instructor/announcements.php:115
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/instructor/dash_instructor_stats.php:300
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/instructor/instructing_modules.php:82
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/instructor/instructor_commissions.php:129
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/instructor/instructor_stats.php:189
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/activity_widget.php:208
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/calendar.php:123
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/contact_users.php:111
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/course_progress.php:171
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/dash_stats.php:223
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/my_modules.php:253
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/news.php:219
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/notes_discussions.php:126
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/student_stats.php:366
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/text_widget.php:82
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/todo_task.php:111
+msgid "Full"
+msgstr "عرض کامل"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/instructor/announcements.php:123
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/instructor/announcements.php:228
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/instructor/instructor_commissions.php:140
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/instructor/instructor_stats.php:198
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/instructor/instructor_stats.php:294
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/contact_users.php:209
+msgid "Security error"
+msgstr "خطای امنیتی"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/instructor/announcements.php:130
+#, fuzzy
+msgid "Please enter some text for announcement"
+msgstr "لطفا متن اعلامیه را بنویسید"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/instructor/announcements.php:134
+msgid "Course list not set"
+msgstr "فهرست دوره تنظیم نشده"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/instructor/announcements.php:154
+#, fuzzy
+msgid "announcement successfully delivered"
+msgstr "اعلامیه با موفقیت وصول شد"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/instructor/announcements.php:213
+msgid "CLICK TO EXPAND"
+msgstr "برای باز شدن کلیک کنید"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/instructor/announcements.php:214
+#, fuzzy, php-format
+msgid "You have %s announcements"
+msgstr "شما  %s  اعلامیه دارید"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/instructor/announcements.php:237
+#, fuzzy
+msgid "Unable to remove annoucement"
+msgstr "شما  %s  اعلامیه دارید"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/instructor/break.php:13
+msgid "Line Widget for Dashboard"
+msgstr "ویجت خط برای داشبورد"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/instructor/break.php:15
+msgid " DASHBOARD : Line Break"
+msgstr "داشبورد: خط جدا کننده"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/instructor/break.php:43
+msgid "Line Break : New Line"
+msgstr "خط جدا کننده: خط جدید"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/instructor/dash_instructor_stats.php:13
+msgid "Simple stats scores for instructors"
+msgstr "نمرات آمار ساده برای اساتید"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/instructor/dash_instructor_stats.php:15
+msgid " DASHBOARD : Instructor Simple Stats"
+msgstr "داشبورد: آمار ساده استاد"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/instructor/dash_instructor_stats.php:71
+msgid "Total Commission Earned"
+msgstr "همه کمیسیون ها دریافت شده"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/instructor/dash_instructor_stats.php:90
+msgid "Courses Instructing"
+msgstr "دوره های در حال آموزش"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/instructor/dash_instructor_stats.php:110
+msgid "Quizzes Created"
+msgstr "آزمون ها ساخته شدند"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/instructor/dash_instructor_stats.php:129
+msgid "Units Created"
+msgstr "واحد ها"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/instructor/dash_instructor_stats.php:148
+msgid "Assignments Created"
+msgstr "تکالیف"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/instructor/dash_instructor_stats.php:167
+msgid "Questions Created"
+msgstr "سوالات"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/instructor/dash_instructor_stats.php:187
+msgid "Badges Awarded"
+msgstr "نشان ها "
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/instructor/dash_instructor_stats.php:209
+msgid "Certificates awarded"
+msgstr "گواهینامه ها"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/instructor/dash_instructor_stats.php:258
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/instructor/instructor_commissions.php:110
+msgid "Instructor Stats"
+msgstr "آمار استاد"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/instructor/dash_instructor_stats.php:272
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/dash_stats.php:206
+msgid "Select Stats"
+msgstr "انتخاب آمار"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/instructor/dash_instructor_stats.php:277
+msgid "WooCommerce Earnings"
+msgstr "درآمد"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/instructor/dash_instructor_stats.php:278
+msgid "Number of courses"
+msgstr "تعداد دوره ها"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/instructor/dash_instructor_stats.php:279
+msgid "Number of Quizzes"
+msgstr "تعداد آزمون ها"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/instructor/dash_instructor_stats.php:280
+msgid "Number of assignments"
+msgstr "تعداد تکالیف"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/instructor/dash_instructor_stats.php:281
+msgid "Number of questions"
+msgstr "تعداد سولات"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/instructor/dash_instructor_stats.php:282
+msgid "Number of units"
+msgstr "تعداد واحد ها"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/instructor/dash_instructor_stats.php:283
+msgid "Number of badges"
+msgstr "تعداد نشان ها"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/instructor/dash_instructor_stats.php:284
+msgid "Number of certificates"
+msgstr "تعداد گواهینامه های پایان دوره"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/instructor/instructing_modules.php:13
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/text_widget.php:13
+msgid "Text Widget for Dashboard"
+msgstr "ویجت متن برای داشبورد"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/instructor/instructing_modules.php:15
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/text_widget.php:15
+msgid " DASHBOARD : Text Widget"
+msgstr "داشبورد: ویجت متنی"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/instructor/instructing_modules.php:56
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/contact_users.php:86
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/dash_stats.php:192
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/my_modules.php:203
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/text_widget.php:56
+msgid "Contact Instructors"
+msgstr "تماس با اساتید"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/instructor/instructing_modules.php:70
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/text_widget.php:70
+msgid "Text Content"
+msgstr "محتوای متن "
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/instructor/instructor_commissions.php:13
+msgid "WooCommerce Commission Stats  for instructors"
+msgstr "آمار کمیسیون استاد"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/instructor/instructor_commissions.php:15
+msgid " DASHBOARD : Instructor Commission Stats"
+msgstr "داشبورد: آمار کمیسیون استاد "
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/instructor/instructor_commissions.php:52
+msgid "Course"
+msgstr "دوره"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/instructor/instructor_commissions.php:52
+msgid "Earnings"
+msgstr "درآمد ها"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/instructor/instructor_commissions.php:68
+msgid "No data found"
+msgstr "اطلاعاتی یافت نشد"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/instructor/instructor_commissions.php:285
+msgid "No courses found for Instructor"
+msgstr "دوره ای برای استاد یافت نشد"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/instructor/instructor_stats.php:14
+msgid "Instructor Statistics widget"
+msgstr "ویجت استاتیک استاد"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/instructor/instructor_stats.php:16
+msgid " DASHBOARD : Instructor Stats"
+msgstr "داشبورد: آمار استاد"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/instructor/instructor_stats.php:44
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/my_modules.php:39
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/student_stats.php:48
+msgid "Courses"
+msgstr "دوره ها"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/instructor/instructor_stats.php:58
+msgid "No courses created by instructor"
+msgstr "این استاد هیچ دوره ای ندارد"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/instructor/instructor_stats.php:80
+msgid "Show Stats"
+msgstr "نمایش آمار"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/instructor/instructor_stats.php:81
+msgid "Re-calculate Stats"
+msgstr "محاسبه مجدد آمار"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/instructor/instructor_stats.php:82
+msgid "List Quiz / Assignments"
+msgstr "فهرست آزمون/ تکالیف"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/instructor/instructor_stats.php:110
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/instructor/instructor_stats.php:126
+msgid "Average Score"
+msgstr "میانگین نمرات"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/instructor/instructor_stats.php:157
+msgid "Instructor Statistics"
+msgstr "تصحیح های دستی استاد"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/instructor/instructor_stats.php:174
+msgid "Set Range value (10 for 1/10)"
+msgstr "تنظیم محدوده ارزش (10 برای 1/10)"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/instructor/instructor_stats.php:178
+msgid "Set Max course limit"
+msgstr "تنظیم حداکثر محدوده دوره"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/instructor/instructor_stats.php:285
+msgid "No data available"
+msgstr "هیج اطلاعاتی در دست نیست"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/instructor/instructor_stats.php:320
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/student_stats.php:51
+msgid "Quiz"
+msgstr "آزمون"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/instructor/instructor_stats.php:324
+msgid "Assignment"
+msgstr "تکالیف"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/activity_widget.php:14
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/calendar.php:14
+msgid "Recent activity from Student"
+msgstr "فعالیت های جدید دانش پذیر"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/activity_widget.php:16
+msgid " DASHBOARD : Recent Activity"
+msgstr "داشبورد: فعالیت های جدید"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/activity_widget.php:79
+msgid "Unread Messages"
+msgstr "پیام های خوانده نشده"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/activity_widget.php:93
+msgid "No messages found"
+msgstr "پیامی یافت نشد"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/activity_widget.php:100
+msgid "Friends Online"
+msgstr "دوستان برخط"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/activity_widget.php:108
+msgid "No friends online"
+msgstr "هیج دوستی برخط نیست"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/activity_widget.php:125
+msgid "Recent Activity"
+msgstr "فعالیت های جدید"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/activity_widget.php:133
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/calendar.php:63
+msgid "AGO"
+msgstr "AGO"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/activity_widget.php:141
+msgid "No activity found"
+msgstr "هیج فعالیتی یافت نشد"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/activity_widget.php:167
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/calendar.php:92
+msgid "Student Activity"
+msgstr "فعالیت های دانش پذیر"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/activity_widget.php:185
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/my_modules.php:242
+msgid "Number of items"
+msgstr "تعداد آیتم ها"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/activity_widget.php:189
+msgid "Show recent messages"
+msgstr "نمایش پیام های جدید"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/activity_widget.php:193
+msgid "Show recent activity"
+msgstr "نمایش فعالیت های جدید"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/activity_widget.php:197
+msgid "Show online Friends"
+msgstr "نمایش دوستان برخط"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/calendar.php:16
+msgid " DASHBOARD : Calendar"
+msgstr "داشبورد: تقویم"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/calendar.php:56
+msgid "VIEW ALL"
+msgstr "مشاهده همه"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/calendar.php:108
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/course_progress.php:156
+msgid "Number of activities in one screen"
+msgstr "تعداد فعالیت ها در یک صفحه"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/calendar.php:112
+msgid "Show Me & My Friends Activity"
+msgstr "نمایش فعالیت من و دوستانم"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/contact_users.php:14
+msgid "Contact form Widget"
+msgstr "ویجت کاربرگ تماس"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/contact_users.php:16
+msgid " DASHBOARD : Contact Form"
+msgstr "داشبورد: کاربرگ تماس"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/contact_users.php:53
+msgid "Select User group"
+msgstr "انتخاب کاربر گروه"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/contact_users.php:54
+msgid "Select a user group"
+msgstr "انتخاب یک کاربر گروه"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/contact_users.php:55
+msgid "Friends"
+msgstr "دوستان"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/contact_users.php:56
+msgid "Instructor"
+msgstr "استاد"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/contact_users.php:57
+msgid "Administrator"
+msgstr "مدیر"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/contact_users.php:59
+msgid "Course Students"
+msgstr "دانش پذیران دوره"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/contact_users.php:63
+msgid "Type name to auto-complete"
+msgstr "نام کامل"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/contact_users.php:64
+msgid "Enter Subject"
+msgstr "موضوع"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/contact_users.php:65
+msgid "Enter Message"
+msgstr "پیام را وارد کنید"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/contact_users.php:66
+msgid "Send Message"
+msgstr "ارسال پیام"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/contact_users.php:100
+msgid "Show User select dropdown"
+msgstr "نمایش لیس آبشاری کاربران"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/contact_users.php:218
+msgid "Please enter to/subject/message"
+msgstr "لطفا نام گیرنده/ موضوع/ متن پیام را وارد کنید"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/contact_users.php:228
+#, php-format
+msgid "Message sent to %s members"
+msgstr "پیام به %s کاربران ارسال شد"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/course_progress.php:14
+msgid "Student Progress in Courses"
+msgstr "دانش پذیران پیشرفت کرده در دوره"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/course_progress.php:16
+msgid " DASHBOARD : Course Progress"
+msgstr "داشبورد: پیشرفت دوره"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/course_progress.php:96
+msgid "START"
+msgstr "شروع"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/course_progress.php:99
+msgid "CONTINUE"
+msgstr "ادامه"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/course_progress.php:107
+msgid "SUBMITTED"
+msgstr "ارسال شده"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/course_progress.php:109
+msgid "FINISHED"
+msgstr "تمام شده"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/course_progress.php:140
+msgid "Course Progress"
+msgstr "پیشرفت دوره"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/course_progress.php:160
+msgid "Show Finished Courses"
+msgstr "نمایش دوره های تمام شده"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/course_progress.php:212
+msgid "Security check failed !"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/course_progress.php:217
+msgid " Incorrect User selected."
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/dash_stats.php:13
+msgid "Simple stats scores for students"
+msgstr "آمار ساده نمرات برای دانش پذیران"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/dash_stats.php:15
+msgid " DASHBOARD : Simple Stats"
+msgstr "داشبورد: آمار ساده"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/dash_stats.php:56
+msgid "Courses Completed"
+msgstr "دوره تکمیل شد"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/dash_stats.php:89
+msgid "Assignments Completed"
+msgstr "تکالیف تکمیل شد"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/dash_stats.php:123
+msgid "Quizzes Completed"
+msgstr "آزمون ها تکمیل شد"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/dash_stats.php:152
+msgid "Units Completed"
+msgstr "واحد ها تکمیل شدند"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/dash_stats.php:209
+msgid "Finished Courses"
+msgstr "دوره های به اتمام رسیده"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/dash_stats.php:210
+msgid "Finished Quizes"
+msgstr "آزمون های به اتمام رسیده"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/dash_stats.php:211
+msgid "Finished Assignments"
+msgstr "تکالیف انجام شده"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/dash_stats.php:212
+msgid "Finished Units"
+msgstr "واحد های به اتمام رسیده"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/my_modules.php:13
+#, fuzzy
+msgid "My Courses, Units, Quizzes, Assignments widget for Dashboard"
+msgstr "ویجت خط برای داشبورد"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/my_modules.php:15
+#, fuzzy
+msgid " DASHBOARD : My Modules Widget"
+msgstr "داشبورد: ویجت متنی"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/my_modules.php:42
+#, fuzzy
+msgid "Quizzes"
+msgstr "آزمون"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/my_modules.php:45
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/student_stats.php:54
+msgid "Assignments"
+msgstr "تکالیف"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/my_modules.php:48
+msgid "Units"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/my_modules.php:51
+msgid "Downloads"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/my_modules.php:78
+#, fuzzy
+msgid "No Courses found"
+msgstr "پیامی یافت نشد"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/my_modules.php:100
+#, fuzzy
+msgid "No quizzes found"
+msgstr "پیامی یافت نشد"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/my_modules.php:122
+#, fuzzy
+msgid "No assignments found"
+msgstr "پیامی یافت نشد"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/my_modules.php:146
+#, fuzzy
+msgid "No units found"
+msgstr "اطلاعاتی یافت نشد"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/my_modules.php:173
+#, fuzzy
+msgid "No downloads found"
+msgstr "اطلاعاتی یافت نشد"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/my_modules.php:222
+#, fuzzy
+msgid "Show My Courses"
+msgstr "نمایش دوره های تمام شده"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/my_modules.php:226
+msgid "Show My Quizzes"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/my_modules.php:230
+#, fuzzy
+msgid "Show My Assignments"
+msgstr "تکالیف"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/my_modules.php:234
+#, fuzzy
+msgid "Show My Units"
+msgstr "نمایش آمار"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/my_modules.php:238
+msgid "Show My Downloads"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/news.php:13
+msgid "News for Members"
+msgstr "اخبار کاربران"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/news.php:15
+msgid " DASHBOARD : Member News"
+msgstr "داشبورد: اخبار کاربران"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/news.php:171
+msgid "No news for you !"
+msgstr "اخباری برای شما نیست!"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/news.php:208
+msgid "Maximum Number of New blocks in carousel"
+msgstr "حداکثر تعداد بلوک های خبری در چرخش"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/news.php:235
+msgid "Add News"
+msgstr "اضافه کردن اخبار"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/news.php:236
+msgid "All News"
+msgstr "همه اخبار"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/news.php:256
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/news.php:257
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/news.php:258
+msgid "News Tag"
+msgstr "برچسب اخبار"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/news.php:259
+msgid "Add New Tag"
+msgstr "اضافه کردن برچسب اخبار"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/news.php:260
+msgid "All News Tags"
+msgstr "همه برچسب های اخبار"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/news.php:273
+msgid "Share with students in Course"
+msgstr "به اشتراک گذاری با دانش پذیران دوره"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/news.php:274
+msgid "Student having access to this courses will get the news"
+msgstr ""
+"دانش پذیرانی که دسترسی به این دوره ها دارند، اخبار آن را دریافت خواهند کرد"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/news.php:280
+msgid "Post Sub-Title"
+msgstr "زیر عنوان نوشته"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/news.php:281
+msgid "Post Sub- Title."
+msgstr "زیر عنوان نوشته"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/news.php:288
+msgid "News Settings"
+msgstr "تنظیمات اخبار"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/notes_discussions.php:13
+#, fuzzy
+msgid "Notes & Discussion Widget for Dashboard"
+msgstr "ویجت خط برای داشبورد"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/notes_discussions.php:15
+#, fuzzy
+msgid " DASHBOARD : Notes & Discussion"
+msgstr "داشبورد: To Do Tasks"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/notes_discussions.php:41
+#, fuzzy
+msgid "SEE ALL"
+msgstr "مشاهده همه"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/notes_discussions.php:43
+msgid "My Notes"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/notes_discussions.php:44
+msgid "My Discussions"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/notes_discussions.php:101
+msgid "Notes& Discussion"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/notes_discussions.php:115
+#, fuzzy
+msgid "Number of Notes/Dicussions"
+msgstr "تعداد سولات"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/student_stats.php:14
+msgid "Student Statistics widget"
+msgstr "ویجت دانش پذیران استاتیک"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/student_stats.php:16
+msgid " DASHBOARD : Student Stats"
+msgstr "داشبورد: آمار دانش پذیر"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/student_stats.php:304
+msgid "Student Statistics"
+msgstr "دانش پذیران استاتیک"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/student_stats.php:323
+msgid "Show Course statistics"
+msgstr "نمایش دوره استاتیک"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/student_stats.php:327
+msgid "Course Chart Style"
+msgstr "ساختار چارت دوره"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/student_stats.php:329
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/student_stats.php:341
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/student_stats.php:353
+msgid "LINE CHART"
+msgstr "چارت خطی"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/student_stats.php:330
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/student_stats.php:342
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/student_stats.php:354
+msgid "AREA CHART"
+msgstr "چارت مساحتی"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/student_stats.php:331
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/student_stats.php:343
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/student_stats.php:355
+msgid "BAR CHART"
+msgstr "چارت میله ای"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/student_stats.php:335
+msgid "Show Quiz statistics"
+msgstr "نمایش آزمون استاتیک"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/student_stats.php:339
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/student_stats.php:351
+msgid "Quiz Chart Style"
+msgstr "ساختار چارت آزمون"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/student_stats.php:347
+msgid "Show Assignments statistics"
+msgstr "نمایش تکالیف استاتیک"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/todo_task.php:13
+msgid "To Do list Widget"
+msgstr "ویجت To Do list"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/todo_task.php:15
+msgid " DASHBOARD : To Do Tasks"
+msgstr "داشبورد: To Do Tasks"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/todo_task.php:50
+msgid "ADD NEW TASK"
+msgstr "وظیفه جدیدی اضافه کنید"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/todo_task.php:60
+msgid "SAVE"
+msgstr "ذخیره"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/todo_task.php:80
+msgid "To do List"
+msgstr "لیست To do"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/todo_task.php:96
+msgid "Show task date"
+msgstr "نمایش تاریخ وظیفه"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/todo_task.php:100
+msgid "Enable task priority"
+msgstr "فعال کردن اولویت وظیفه"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/todo_task.php:120
+msgid "Security issue."
+msgstr "مشکل امنیتی"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-dashboard/includes/widgets/student/todo_task.php:129
+msgid "Unable to Save"
+msgstr "قادر به ذخیره نیست"

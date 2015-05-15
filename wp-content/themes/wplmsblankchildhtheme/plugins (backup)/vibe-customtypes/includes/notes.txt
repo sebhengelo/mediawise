@@ -1,0 +1,4 @@
+Toegevoegd aan features.php
+Origineel staat in de map /plugins (backup)/vibe-customthemes/includes
+
+Regel 83: $return .=apply_filters('wplms_course_thumb_extras','<div class="button">Start cursus</div>'); // Use this filter to add Extra HTML to the course featured block

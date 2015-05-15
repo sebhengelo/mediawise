@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="318px" height="177px" viewBox="0 0 318 177" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.2.2 (9983) - http://www.bohemiancoding.com/sketch -->
+    <title>Rectangle 498 + Mediawise + Welkom bij</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Homepage-(docenten)-3" sketch:type="MSArtboardGroup" transform="translate(-814.000000, -1359.000000)">
+            <g id="Rectangle-498-+-Mediawise-+-Welkom-bij" sketch:type="MSLayerGroup" transform="translate(814.000000, 1359.000000)">
+                <rect id="Rectangle-498" fill="#03A9F4" sketch:type="MSShapeGroup" x="0" y="0" width="318" height="177"></rect>
+                <text id="Mediawise" sketch:type="MSTextLayer" font-family="Quicksand" font-size="42" font-weight="bold" fill="#FFFFFF">
+                    <tspan x="51" y="130">M</tspan>
+                    <tspan x="86.448" y="130">e</tspan>
+                    <tspan x="112.026" y="130">d</tspan>
+                    <tspan x="139.746" y="130">i</tspan>
+                    <tspan x="151.548" y="130">a</tspan>
+                    <tspan x="177.546" y="130">w</tspan>
+                    <tspan x="213.708" y="130">i</tspan>
+                    <tspan x="225.51" y="130">s</tspan>
+                    <tspan x="246.174" y="130">e</tspan>
+                </text>
+                <text id="Welkom-bij" sketch:type="MSTextLayer" font-family="Roboto" font-size="36" font-weight="normal" fill="#FFFFFF">
+                    <tspan x="72" y="81">Welkom bij</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>

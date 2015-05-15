@@ -1,0 +1,1084 @@
+/*
+Theme Name: WPLMS Blank ChildTheme
+Theme URI: http://www.VibeThemes.com    
+Description: Child Theme for WPLMS WordPress Theme
+Author: VibeThemes
+Author URI: http://themeforest.com/user/vibethemes
+Template: wplms
+Version: 1.0
+*/
+
+@import url("../wplms/style.css");
+
+/* 1. Global Styles */
+
+footer {
+	display: none;
+}
+
+#footerbottom {
+	margin-top: 20px;
+}
+.sidebar > div {
+	margin-bottom: 25px;
+}
+
+.sidebar > div:last-child {
+	margin-bottom: 0px;
+}
+
+.wpb_row {
+	margin-bottom: 20px;
+}
+
+.vc_column_container {
+	padding: 50px;
+}
+
+.col-md-3 {
+	padding: 0px 20px;
+}
+
+.container {
+	padding: 0;
+}
+
+.sidebar > div > h4{
+	margin-top: 20px;
+}
+
+.sidebar > div > h4:first-child {
+	margin-top: 10px;
+}
+
+body {
+	line-height: 1.8em;
+	background-color: #fff !important;
+}
+
+.button, .btn {
+	background-image: -moz-linear-gradient(top, #03A9F4, #03A9F4) !important;
+  	background-image: -webkit-gradient(linear, 0 0, 0 100%, from(#03A9F4), to(#03A9F4)) !important;
+  	background-image: -webkit-linear-gradient(top, #03A9F4, #03A9F4) !important;
+  	background-image: -o-linear-gradient(top, #03A9F4, #03A9F4) !important;
+ 	background-image: linear-gradient(to bottom, #03A9F4, #03A9F4);
+  	background-repeat: repeat-x !important;
+  	border-radius: 5px !important;
+  	padding: 10px auto !important;
+	box-shadow: inset 0px -2px 0px 0px rgba(50, 50, 50, 0.25) !important;
+	font-family: 'Varela Round' !important;
+	font-weight: 600 !important;
+	text-transform: normal !important;
+	border: none !important;
+	margin-top: 0px !important;
+	margin-bottom: 20px !important;
+	font-size: 14px !important;
+	text-align: center !important;
+}
+
+.button:hover, .btn:hover {
+	color: #fff; !important; 
+}
+
+.col-md-12 .yes_top {
+	padding-top: 0px !important;
+}
+/* 2. Inhoudspagina's */
+#content #buddypress { /* Zorgt ervoor dat de content beter aansluit op de header */
+	margin-top: 0px;
+}
+
+.page .content, .single .content { /* Haalt padding en margin weg zodat de pagina-inhoud aansluit op de buitenste kaders van de site */
+	margin: 0;
+	padding: 20px;
+	border-radius: 10px;
+	box-shadow: inset 0px -2px 0px 0px rgba(50, 50, 50, 0.25);
+}
+
+.sidebar h3, .sidebar h4 {
+	margin-top: 0px !important;
+}
+
+.container .row .sidebar {
+	background-color: #fff;
+	margin: 0;
+	padding: 20px;
+	border-radius: 10px;
+	box-shadow: inset 0px -2px 0px 0px rgba(50, 50, 50, 0.25);
+}
+
+h3.heading { /* Past de header bij de cursuscaroussel aan van uppercase naar normal */
+	text-transform: none;
+	font-size: 2em;
+	font-weight: normal;
+}
+
+/* 3. Navigatie */
+.header-nav {
+	height: 70px !important;
+}
+
+header .row #searchicon {
+	padding: 32px 0 0;
+}
+
+.sub-menu {
+	border-radius: 5px !important;
+}
+
+ul.sub-menu li.menu-item > a {
+	padding: 10px 0;
+}
+
+nav .sub-menu li.menu-item > a {
+	color: #fff;
+}
+
+#vibe_bp_login.active {
+	background-color: #dedede;
+	margin-top: 5px;
+	border-radius: 5px;
+	top: 70px;
+}
+
+#vibe_bp_login ul+ul {
+	background-color: #03A9F4;
+}
+
+#bpavatar ul:last-child {
+	border-bottom-left-radius: 5px !important;
+	border-bottom-right-radius: 5px !important;
+}
+
+#vibe_bp_login::after {
+	border-color: transparent transparent #dedede transparent !important;
+}
+
+nav .menu li a {
+	margin: 0 5px;
+}
+
+.topmenu-login {
+	margin-top: 4px;
+}
+
+.smallimg .avatar {
+	margin-top: -4px;
+}
+
+.smallimg img {
+	height: 30px;
+	border-radius: 15px;
+}
+
+.topmenu li {
+	padding: 25px 12px 0 !important;
+}
+
+#vibe_bp_login {
+	right: 0;
+}
+
+#vibe_bp_login:after {
+	right: 110px;
+}
+/* 3. Header */
+a.header-logo { /* Logo */
+	font-size: 2.5em;
+	color: #03A9F4;
+	line-height: 2.3em;
+}
+
+.headermiddle { /* Hoogte van de header met logo */
+	height: 30px;
+	margin-bottom: 10px;
+}
+
+#logo { /* Idem dito */
+	margin: 12px 0 0 -6px;
+}
+
+.pagetitle { /* Horizontale blauwe header met paginatitel */
+	background-color: #03A9F4;
+	height: 100px;
+	padding: 25px 0px;
+}
+
+h1.header-title {
+	color: #fff;
+	font-weight: normal;
+}
+
+nav .menu li a {
+	padding-bottom: 0px;
+}
+
+/* 5. Slider */
+#content + .homepageslider.stripe { /* Haalt witruimte tussen header en slider weg */
+	margin-top: -50px !important;
+}
+
+#layerslider_1 > .ls-shadow { /* Haalt schaduw onder slider weg */
+	visibility: hidden;
+	display: none;
+}
+
+.button-slider {
+	background-color: #8BC34A;
+	border-radius: 5px;
+	padding: 10px 30px;
+	font-size: 18px;
+	box-shadow: inset 0px -2px 0px 0px rgba(50, 50, 50, 0.25);
+	color: #fff;
+}
+
+.button-slider:hover {
+	background-color: #8BC34A;
+	box-shadow: inset 0px -2px 0px 0px rgba(50, 50, 50, 0.25);
+	color: #fff;
+}
+
+/* 4. Breadcrumbs */
+ul.breadcrumbs {
+	margin: 10px 0 5px 0;
+	float: left;
+	color: #767676;
+}
+
+ul.breadcrumbs > li > a {
+	color: #767676;
+}
+
+ul.breadcrumbs li.current span {
+	color: #767676;
+}
+
+/* 5. Dashboard */
+.mycred-my-rank img {
+	width: 50px;
+	height: auto;
+	margin-right: 10px;
+}
+
+.progress {
+	margin-top: 10px;
+}
+
+.points-progress {
+	margin-bottom: 20px;
+}
+
+.wpb_wrapper h2 {
+	margin-top: 0px;
+}
+
+/* 5. Cursusoverzicht */
+.padder > .row > .col-md-9, .padder > .row > .col-md-9 {
+	background-color: #fff;
+	border-radius: 10px;
+}
+#course-directory-form {
+	margin-top: 15px;
+}
+
+.item-list-tabs .selected a {
+	color: #fff !important;
+}
+
+.create-group-button {
+	padding-top: 20px !important;
+	padding-bottom: 20px !important;
+	font-size: 1em !important;
+}
+
+/* 6. Cursuspagina */
+#buddypress > .container > .row > .col-md-3 > #item-header { /* Zwarte achtergrond weg zodat bij border-radius achtergrond niet zwart is */
+	background-color: transparent;
+}
+
+/* 
+#item-header-avatar img { 
+	border-top-left-radius: 10px;
+	border-top-right-radius: 10px;
+}
+
+#item-header-content, #item-admins {
+	background-color: #03A9F4;
+}
+
+*/
+
+/* Wijzigingen begin */
+
+.widget.pricing {
+	padding: 15px;
+}
+
+#item-header-avatar {
+	border: none;
+}
+#item-header-avatar img {
+	border-radius: 10px;
+}
+
+#item-nav {
+	margin-top: 20px;
+}
+
+.item-list-tabs {
+	border-radius: 10px !important;
+}
+
+#buddypress div.item-list-tabs ul li.current a {
+	background-color: #03A9F4;
+	background-image: none;
+	color: #fff !important;
+}
+
+div.item-list-tabs ul > li > a {
+	text-transform: none !important;
+	font-size: 1em !important;
+	font-weight: normal !important;
+	color: #767676 !important;
+}
+
+#item-header-content, #item-admins {
+	background-color: #fff;
+	border-radius: 10px;
+}
+
+/* Wijzigingen eind */
+
+#item-admins { /* Idem dito */
+	margin: 0;
+	padding: 0 0 20px;
+}
+
+#item-body {
+	border-radius: 10px;
+}
+
+h3.review-title {
+	background-color: #fff;
+}
+
+.col-md-3 .pricing {
+	border-radius: 10px;
+}
+
+#buddypress div.item-list-tabs { /* Menu in linkerblok */
+	background-color: #fff;
+}
+
+#buddypress div.item-list-tabs ul li a, #buddypress div.item-list-tabs ul li span {
+	color: #03A9F4;
+}
+
+/*
+#item-body {
+	padding: 0 20px;
+}
+*/
+
+/* 7. Cursusinhoud */
+.iteam-header-avatar img {
+	width: 100%;
+	height: auto;
+}
+
+span.countdown {
+	margin-top: 25px;
+}
+
+.quiz_details {
+	margin-top: 100px;
+	border-radius: 4px;
+}
+
+.course_timeline {
+	border: 0;
+	padding-bottom: 10px;
+	background-color: #fff;
+	border-radius: 10px;
+	box-shadow: inset 0px -2px 0px 0px rgba(50, 50, 50, 0.25);
+}
+
+.course_timeline li.unit_line {
+	border-left: 3px solid #efefef;
+}
+
+.course_timeline li > span {
+	border: 0px solid #efefef;
+	background-color: #efefef;
+}
+
+.course_timeline li.done > span:before {
+	margin: 0px 0 0 7px;
+}
+
+.course_timeline ul > li> h4 {
+	background-color: #03A9F4;
+	color: #fff;
+}
+
+.course_timeline li.section:first-child h4 {
+	border-top-left-radius: 10px;
+	border-top-right-radius: 10px;
+}
+
+.course_timeline li.section {
+	padding: 0px;
+	margin: 0px;
+}
+
+.course_timeline li.done a {
+	color: #4a4a4a;
+}
+
+.course_timeline li:hover a, .course_timeline li.active a, .course_timeline h4, .course_timeline h4, .course_timeline li a {
+	color: #767676;
+}
+
+.course_timeline li a {
+	font-size: inherit;
+	text-transform: none;
+	font-weight: normal;
+}
+
+.course_timeline h4,  {
+	font-size: inherit;
+	text-transform: none;
+}
+
+.course_time strong span {
+	color: #03A9F4;
+}
+
+.unit_title .instructor, .unit_title ul+.instructor, .icon-printer-1:before, .unit_title .print_unit+span, .quiz_title .print_unit+span, .quiz_meta .inquiz_timer, .unit_title ul.tags, .course_time {
+	display: none;
+}
+
+.course_progressbar.progress {
+	margin: 0;
+}
+
+#unit_content h1 {
+	margin: 0;
+}
+
+.unit_content {
+	margin: 0px;
+  	padding: 0px 30px 20px 30px;
+  	border-radius: 10px;
+  	box-shadow: inset 0px -2px 0px 0px rgba(50, 50, 50, 0.25);
+}
+
+.unit_content p {
+	color: #767676;
+}
+
+.unit-title {
+	margin: 0;
+}
+
+.unit_prevnext {
+	background-color: #03A9F4;
+	border: 0px;
+	margin: 30px 0 0 0;
+	border-radius: 10px;
+	box-shadow: inset 0px -2px 0px 0px rgba(50, 50, 50, 0.25);
+}
+
+/*
+.unit_prevnext .col-md-3, .unit_prevnext .col-md-6 {
+	width: 33%;
+}
+*/
+
+/* 8. Overzicht cursussen per competentie */
+.vc_column_container {
+	padding: 0px !important;
+}
+
+.wpb_content_element.wpb_tabs .wpb_tour_tabs_wrapper .wpb_tab  {
+	padding: 0px;
+	background-color: #fff !important;
+}
+
+.ui-widget-content {
+	background-color: #fff !important;
+	border: none;
+}
+
+.ui-widget-header {
+	border: none;
+	background-color: #fff;
+}
+
+.ui-state-default a, .ui-state-default a:link, .ui-state-default a:visited {
+	color: #03A9F4;
+}
+
+.wpb_content_element .wpb_tabs_nav li a {
+	color: #767676;
+	font-size: 18px;
+	font-family: 'Varela Round';
+}
+
+.wpb_content_element .wpb_tabs_nav li.ui-tabs-active a {
+	color: #fff;
+}
+
+.ui-state-default, .ui-widget-content .ui-state-default, .ui-widget-header .ui-state-default {
+	border: none;
+	background-color: #767676;
+	border-radius: 4px;
+}
+
+.ui-state-active a, .ui-state-active a:link, .ui-state-active a:visited {
+	background-color: #03A9F4;
+	box-shadow: inset 0px -2px 0px 0px rgba(50, 50, 50, 0.25) !important;
+	border-radius: 4px;
+}
+
+.wpb_content_element .wpb_tabs_nav li {
+	background-color: #f7f7f7 !important;
+	box-shadow: inset 0px -2px 0px 0px rgba(50, 50, 50, 0.25) !important;
+	margin: 20px;
+}
+
+.wpb_tabs .wpb_tabs_nav li {
+	margin: 0 20px 0 0 !important;
+}
+
+.ui-tabs .ui-tabs-nav li.ui-tabs-active {
+	padding: 0;
+}
+
+.search-filter-results .pagination {
+	display: none;
+}
+
+.thumbnail-cursus {
+	max-width: 100%;
+	height: 120px;
+	background-size: 100%;
+	background-position: center;
+	border-top-left-radius: 4px;
+	border-top-right-radius: 4px;
+	position: relative;
+	opacity: 0.9;
+    transition: all 100ms ease-in-out;
+}
+
+#content .wpb_content_element .wpb_tabs_nav {
+	margin: 20px !important;
+}
+
+.search-filter-results div.cursussen:nth-child(3), .search-filter-results div.cursussen:nth-child(6) {
+	opacity: 0.5;
+}
+
+.search-filter-results div.cursussen:nth-child(3) .thumbnail-cursus:after, .search-filter-results div.cursussen:nth-child(6) .thumbnail-cursus:after  {
+	content: "\f00c";
+	font-family: 'FontAwesome';
+	font-size: 2em;
+	color: #fff;
+	background-color: rgba(109,171,60,1.0);
+	padding: 5px;
+	width: 40px;
+	height: 40px;
+	border-radius: 20px;
+	line-height: 30px;
+	margin: 15px;
+	float: right;
+}
+
+div.cursus-item {
+	margin-bottom: 30px !important;	
+}
+
+/* 8. Overzicht badges */
+.badges-overzicht {
+	margin-bottom: 30px;
+	opacity: 0.5;
+}
+
+.badge-item {
+	background-color: #f7f7f7;
+	border-radius: 5px;
+	padding: 15px;
+	width: 100%;
+	text-align: center;
+	box-shadow: inset 0px -2px 0px 0px rgba(50, 50, 50, 0.25);
+}
+
+.badge-icon {
+	margin-left: auto;
+	margin-right: auto;
+	width: 50%;
+	min-height: 130px;
+	clear: both;
+}
+
+.thumbnail-badge {
+	width: 100%;
+	height: auto;
+}
+
+.badge-content {
+	margin: 0;
+}
+
+.badge-omschrijving {
+	line-height: 2em;
+	min-height: 70px;
+	font-size: 1em;
+	color: #767676;
+}
+
+.badge-punten {
+	position: absolute;
+	top: 15px;
+	right: 40px;
+	background-color: #b9b9b9;
+	color: #fff;
+	padding: 2px 10px;
+	border-radius: 5px;
+}
+
+.search-filter-results div.badges-overzicht:nth-child(1), .search-filter-results div.badges-overzicht:nth-child(6) {
+	opacity: 1.0;
+}
+
+/* 8. Overzicht lessen */
+
+.searchandfilter ul li ul li input[type=checkbox] {
+	margin: -2px 6px 0 0;
+	vertical-align: middle;
+}
+
+.sf-field-search {
+	padding: 0px !important;
+	width: 100% !important;
+}
+
+.sf-field-search input[type=text] {
+	width: 100%;
+	border-radius: 4px;
+	border: 1px solid #e4e4e4; 
+	padding: 5px;
+	margin: 10px 0px;
+}
+
+.container-lessen {
+	padding: 0px;
+	background-color: #fff !important;
+	border-radius: 10px;
+	box-shadow: inset 0px -2px 0px 0px rgba(50, 50, 50, 0.25);
+}
+
+
+.col-md-3-lessen {
+	background-color: #fff;
+}
+
+
+.lessen-content p.meta-werkvorm {
+	border: 2px solid #efefef;
+	padding: 0px 8px;
+	border-radius: 16px;
+	display: inline-block;
+	color: #767676;
+	margin: 0px;
+}
+
+.thumbnail-les {
+	max-width: 100%;
+	height: 100px;
+	background-size: 100%;
+	background-position: center;
+	border-top-left-radius: 4px;
+	border-top-right-radius: 4px;
+	position: relative;
+	opacity: 0.9;
+    transition: all 100ms ease-in-out;
+}
+
+div.les-item {
+	margin-bottom: 30px;
+}
+
+.lessen-content > p {
+   overflow: hidden;
+   text-overflow: ellipsis;
+   display: -webkit-box;
+   -webkit-box-orient: vertical;
+   -webkit-line-clamp: 2; /* number of lines to show */
+   line-height: 1.5em;        /* fallback */
+   max-height: 2*1.5em;       /* fallback */
+}
+
+.thumbnail-les:hover {
+	background-size: 105%;
+	opacity: 1.0;
+}
+
+.group h5 a, .group h6 a {
+	color: #03A9F4;
+	font-family: 'Varela Round';
+	font-weight: 600;
+}
+
+/*
+.button-les, .button-cursus {
+	width: 100%;
+	font-family: 'Varela Round';
+	text-align: center;
+	color: #fff !important;
+	font-size: 1.2em;
+	border-top-left-radius: 0px;
+	border-top-right-radius: 0px;
+	background-color: #767676;
+}
+*/
+
+.lessen-aantal {
+	clear: both;
+	margin: 5px 0 15px 15px;
+}
+
+.lessen-grid {
+	padding: 10px;
+	background-color: #fff;
+}
+
+.lessen-meta-img {
+	width: 100%;
+	background-color: rgba(118,118,118,0.5);
+	position: absolute;
+	bottom: 0;
+	padding: 3px 10px;
+	color: #fff;
+}
+
+.lessen-content {
+	padding: 0px 10px;
+	text-align: center;
+	width: 100%;
+	height: 60px;
+	background-color: #f7f7f7;
+	border-bottom-left-radius: 4px;
+	border-bottom-right-radius: 4px;
+	box-shadow: inset 0px -2px 0px 0px rgba(50, 50, 50, 0.25);
+}
+
+.lessen-content h5 {
+	color: #767676 !important;
+	margin-top: 0px;
+	position: relative;
+	top: 50%;
+	transform: translateY(-50%);
+}
+
+.lessen-content h5 a{
+	color: #767676 !important;
+}
+
+/*
+.lessen-deel {
+	width: 100%;
+	font-family: 'Quicksand';
+	text-align: center;
+	color: #fff;
+	font-size: 1.2em;
+	border-radius: 10px;
+	box-shadow: inset 0px -2px 0px 0px rgba(50, 50, 50, 0.25);
+}
+*/
+
+.searchandfilter h4 {
+	font-size: 20px;
+}
+
+li.cat-item label {
+	font-weight: normal;
+}
+
+.simplefavorite-button {
+	background-color: transparent;
+	float: right;
+	margin-top: 5px;
+}
+
+.sf-icon-star-empty, .sf-icon-star-full {
+	font-size: 28px;
+	color: #FFE700;
+}
+
+/* 8. Single Les */
+.les-inleiding {
+	font-size: 18px;
+	color: #767676;
+}
+
+.les-inhoud p {
+	color: #767676 !important;
+	font-family: 'Varela Round' !important;
+	line-height: 1.8em !important;
+	font-size: 1em !important;
+}
+
+.les-inhoud ul li {
+	list-style-type: disc;
+	list-style-position: inside;
+	color: #767676;
+}
+
+/* 10. Les indienen */
+ul.wpuf-form li {
+	padding: 0px;
+}
+
+label {
+	font-weight: normal;
+}
+
+ul.wpuf-form li .wpuf-section-wrap .wpuf-section-details {
+	font-size: 14px;
+}
+
+ul.wpuf-form li .wpuf-fields .wpuf-help {
+	clear: both;
+}
+
+#wpuf.post-draft, ul.wpuf-form li .wpuf-fields a.file-selector, ul.wpuf-form li .wpuf-fields a.file-selector:hover, ul.wpuf-form .wpuf-submit input[type=submit] {
+	height: auto;
+	text-align: center;
+	color: #fff;
+	font-size: 1.2em;
+	border-radius: 4px;
+	background-color: #03A9F4;
+	background-image: none;
+	border: none;
+	box-shadow: none;
+	text-shadow: none;
+	padding: 5px 10px;
+	font-weight: 600;
+}
+
+ul.wpuf-form li .wpuf-fields .wpuf-help {
+	font-style: normal;
+}
+
+/* 13. myCRED Rank Progress */
+.mycred-rank-progress{}
+.mycred-rank-progress h3.rank-progress-label{}
+.mycred-rank-progress span.current-rank{color: #8BC34A;}
+.mycred-rank-progress span.next-rank{color: #8BC34A;}
+.mycred-rank-progress span.points-progress{color: #767676;}
+ 
+/* HTML 5 Progress Bar */
+progress[value]  {
+  /* Reset the default appearance */
+  -webkit-appearance: none; -moz-appearance: none; appearance: none;
+ 
+  /* Get rid of default border in Firefox. */
+  border: none;
+  border-radius: 5px;
+ 
+  /* Dimensions */
+  width: 100%; height: 1em;
+ 
+  /* For IE10 */
+  color: #8BC34A; 
+}
+ 
+/* HTML 5 Progress Bar Container */
+progress[value]::-webkit-progress-bar {
+  background-color: #efefef;
+  border-radius: 10px;
+}
+ 
+/* HTML 5 Progress Bar Value */
+progress[value]::-webkit-progress-value {
+	background-color: #8BC34A;
+	border-radius: 10px;
+}
+
+/* Competentie-overzicht */
+.v_column {
+	padding-top: 20px;
+}
+
+.v_first { /* Zorgt ervoor dat de cursuscaroussel binnen de buitenste kaders van de site blijft */
+	padding: 15px 15px;
+}
+
+/* 14. Community */
+.dwqa-container {
+	margin-top: 20px;
+}
+
+.dwqa-search-input {
+	border-radius: 5px;
+}
+
+.dwqa-list-question .filter-bar {
+	border-top-left-radius: 5px;
+	border-top-right-radius: 5px;
+}
+
+.dwqa-list-question .archive-question-footer {
+	border-bottom-left-radius: 5px;
+	border-bottom-right-radius: 5px;
+}
+
+/* 15. Cursussen aanmaken */
+#course_creation_tabs {
+	border-radius: 10px;
+	background-color: #03A9F4;
+	box-shadow: inset 0px -2px 0px 0px rgba(50, 50, 50, 0.25);
+}
+
+ul#create_course_help li.active span {
+	color: #767676;
+}
+
+#course_creation_tabs li.active:after {
+	padding: 0px 6px;
+}
+
+section#create_content .create_course_content {
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+
+section#create_content h1.course_title {
+	text-transform: lowercase;
+}
+
+/*
+.block-media {
+	border-top-left-radius: 4px;
+	border-top-right-radius: 4px;	
+}
+*/
+
+
+
+.pusher {
+	background: #eff1f2 !important;
+	margin-top: 80px;
+}
+
+header{
+	background: #fff !important;
+	webkit-transition: all 0.6s ease-in-out;
+  	-moz-transition: all 0.6s ease-in-out;
+  	-o-transition: all 0.6s ease-in-out;
+  	transition: all 0.6s ease-in-out;
+}
+
+.logged-in.admin-bar header.fix{top:28px;}
+header.fix{position: fixed;top:0;z-index: 9999;}
+header + #content + .stripe{
+	margin-top:-90px;
+}
+header + section,
+#grouptitle, #memberstitle, #activitytitle{
+	padding-top:120px;
+}
+header + section#content,
+header + section#title{
+	padding-top:90px;
+}
+#title{margin-top:0;}
+.topmenu{
+	float:right;
+}
+
+.topmenu li{
+	padding:30px 12px;
+	float:left;
+}
+
+.vbplogin:before{
+	content: '|';
+	font-family: 'Fonticon';
+	font-size: 16px;
+	margin-right: 5px;
+	float:left;
+}
+.vbpcart:before{
+	content: 'x';
+	float:left;
+	font-family: 'Fonticon';
+	font-size: 16px;
+	margin-right: 5px;
+}
+.vibe-bp-login a{color:#FFF;text-transform: uppercase;}
+.vbpcart em{
+	background: #78c8c9;
+	padding: 2px 5px;
+	border-radius: 50%;
+	font-style: normal;
+	font-family: sans-serif;
+	font-size: 11px;
+	font-weight: 800;
+}
+.logged-in .vbplogin:before{content:'';}
+.topmenu li a{
+	color:#FFF;font-size:13px;
+	font-weight:800;
+	font-family:'Raleway',sans-serif;
+}
+#vibe_bp_login{top:80px;}
+
+#logo{float:left;margin-top:15px;}
+header #searchicon{padding: 28px 0 24px;}
+@media (max-width:767px){
+	header.fixed.fix{
+		top:0;
+		webkit-transition: all 0.6s ease-in-out;
+	  	-moz-transition: all 0.6s ease-in-out;
+	  	-o-transition: all 0.6s ease-in-out;
+	  	transition: all 0.6s ease-in-out;
+	}	
+}
+
+header.fixed #searchicon{padding: 12px 0 4px;}
+
+header #searchform{padding:0;}
+header #searchform input[type="text"]{
+	font-size: 35px;
+	background:rgba(0,0,0,0.6) !important;
+	color:#FFF !important;
+	border-radius:0;
+	padding: 16px;}	
+header #searchdiv {
+	float: none;
+	padding: 0;
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	border: none;
+	color:#FFF;
+}
+#trigger{top:30px;}
+
+header.fixed #logo{margin-top:5px;}
+header.fixed #logo img{max-height:24px;webkit-transition: all 0.6s ease-in-out;
+  	-moz-transition: all 0.6s ease-in-out;
+  	-o-transition: all 0.6s ease-in-out;
+  	transition: all 0.6s ease-in-out;}
+header.fixed nav .menu > li > a,
+header.fixed .topmenu li{padding-top:15px;padding-bottom:15px;
+	webkit-transition: all 0.6s ease-in-out;
+  	-moz-transition: all 0.6s ease-in-out;
+  	-o-transition: all 0.6s ease-in-out;
+  	transition: all 0.6s ease-in-out;}
+header.fixed #searchform input[type="text"]{font-size:20px;padding:12px;}
+header.fixed #trigger{top:10px;}
+*/

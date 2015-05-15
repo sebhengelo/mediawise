@@ -1,0 +1,352 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WPLMS Events\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-03-31 15:55+0530\n"
+"PO-Revision-Date: 2015-03-31 15:55+0530\n"
+"Last-Translator: vibethemes@gmail.com <vibethemes@gmail.com>\n"
+"Language-Team: VibeThemes <vibethemes@gmail.com>\n"
+"Language: fa_IR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.3\n"
+"X-Poedit-Basepath: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-"
+"events\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: /Applications/MAMP/htdocs/wplms/wp-content/plugins/"
+"wplms-events\n"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-events/autoupdate/class-envato-protected-api.php:67
+msgid "Please enter your Envato Marketplace Username."
+msgstr "نام کاربری Envato Marketplace تان را وارد کنید"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-events/autoupdate/class-envato-protected-api.php:71
+msgid "Please enter your Envato Marketplace API Key."
+msgstr "Envato Marketplace API Key را وارد کنید"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-events/autoupdate/class-envato-protected-api.php:96
+msgid "The API \"set\" is a required parameter."
+msgstr " API \"set\" ضروری است"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-events/autoupdate/class-envato-protected-api.php:167
+msgid "The Envato Marketplace \"item ID\" is a required parameter."
+msgstr " Envato Marketplace \"item ID\" ضروری است"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-events/autoupdate/class-plugin-update.php:376
+msgid "An Unexpected HTTP Error occurred during the API request."
+msgstr "درخواست API request با خطا مواجه شد"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-events/autoupdate/class-plugin-update.php:376
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-events/autoupdate/class-plugin-update.php:541
+msgid "Try again"
+msgstr "دوباره سعی کنید"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-events/autoupdate/class-plugin-update.php:417
+msgid "An unknown error occurred"
+msgstr "خطای ناشناخته ای روی داده"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-events/autoupdate/class-plugin-update.php:453
+msgid ""
+"The plugin has been updated, but could not be reactivated. Please reactivate "
+"it manually."
+msgstr ""
+"افزونه با موفقیت به روز رسانی شد، اما به صورت خودکار قابل فعال سازی نیست،‌ "
+"لطفا افزونه را به صورت دستی فعال کنید"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-events/autoupdate/class-plugin-update.php:454
+msgid "Plugin reactivated successfully. "
+msgstr "افزونه با موفقیت فعال شد"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-events/autoupdate/class-plugin-update.php:476
+msgid " Plugin Updates"
+msgstr "به روز رسانی های افزونه"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-events/autoupdate/class-plugin-update.php:515
+msgid "Username: "
+msgstr "نام کاربری: "
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-events/autoupdate/class-plugin-update.php:519
+msgid "Email: "
+msgstr " "
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-events/autoupdate/class-plugin-update.php:525
+msgid "Key: "
+msgstr "کلید: "
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-events/autoupdate/class-plugin-update.php:531
+msgid "<p>Your plugin update is <span style=\"color:green\">active</span></p>"
+msgstr ""
+"<p>به روز رسانی افزونه شما <span style=\"color:green\">فعال است</span></p>"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-events/autoupdate/class-plugin-update.php:535
+msgid ""
+"<p>Your input is <span style=\"color:red\">not valid</span>, automatic "
+"updates is <span style=\"color:red\">not active</span>.</p>"
+msgstr ""
+"<p>ورودی شما <span style=\"color:red\">not valid</span>,به روز رسانی خودکار "
+"<span style=\"color:red\">فعال نشده</span>.</p>"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-events/autoupdate/class-plugin-update.php:536
+msgid "Edit Key"
+msgstr "ویرایش کلید"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-events/autoupdate/class-plugin-update.php:540
+msgid "<p>Unable to validate update activation.</p>"
+msgstr "<p>قادر به تایید اعتبار به روز رسانی نیست.</p>"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-events/autoupdate/class-plugin-update.php:546
+msgid "Add Key"
+msgstr "اضافه کردن کلید"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-events/autoupdate/class-plugin-update.php:632
+msgid "User name"
+msgstr "نام کاربری"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-events/autoupdate/class-plugin-update.php:638
+msgid "Email"
+msgstr "رایانامه"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-events/autoupdate/class-plugin-update.php:647
+msgid "Themeforest User name ( for Auto-Updates )"
+msgstr "نام کاربری تم فارست (برای به روز رسانی خودکار)"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-events/classes/events_class.php:141
+msgid "EVENTS IN "
+msgstr "رویدادها در"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-events/classes/events_class.php:176
+#, php-format
+msgid "View Events for %1$s %2$s"
+msgstr "نمایش رویدادها برای %1$s %2$s"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-events/classes/events_class.php:197
+#, php-format
+msgid "View posts for %1$s %2$s"
+msgstr "نمایش نوشته ها برای %1$s %2$s"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-events/classes/events_class.php:309
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-events/classes/events_class.php:341
+msgid "Events "
+msgstr "رویدادها"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-events/classes/events_class.php:355
+msgid "Incorrect Date selected"
+msgstr "تاریخ اشتباه انتخاب شده"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-events/classes/events_class.php:365
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-events/classes/events_class.php:425
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-events/classes/events_class.php:482
+msgid "Security check Failed. Contact Administrator."
+msgstr "بررسی امنیتی با شکست مواجه شد. با مدیر سایت تماس بگیرید"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-events/classes/events_class.php:372
+msgid "Please enter a Invitation subject"
+msgstr "لطفا یک موضوع دعوت انتخاب کنید"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-events/classes/events_class.php:379
+msgid "Please enter a Invitation Message"
+msgstr "لطفا یک پیام دعوت انتخاب کنید"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-events/classes/events_class.php:387
+msgid "EVENT : "
+msgstr "رویداد:"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-events/classes/events_class.php:387
+msgid "view event"
+msgstr "مشاهده رویداد"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-events/classes/events_class.php:388
+msgid "COURSE : "
+msgstr "دوره: "
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-events/classes/events_class.php:388
+msgid "view course"
+msgstr "مشاهده دوره"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-events/classes/events_class.php:399
+msgid "ACCEPT"
+msgstr "قبول"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-events/classes/events_class.php:400
+msgid "REJECT"
+msgstr "رد"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-events/classes/events_class.php:415
+msgid "Invitation Message successfully sent to "
+msgstr "پیام دعوت با موفقیت ارسال شد به:  "
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-events/classes/events_class.php:416
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-events/classes/events_class.php:466
+msgid " Students"
+msgstr "دانش پذیر"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-events/classes/events_class.php:432
+msgid "Please enter a reminder subject"
+msgstr "لطفا یک موضوع برای یادآوری انتخاب کنید"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-events/classes/events_class.php:439
+msgid "Please enter a reminder Message"
+msgstr "لطفا یک پیام یادآوری وارد کنید"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-events/classes/events_class.php:446
+msgid "Please send an invitation to course students."
+msgstr "لطفا یک دعوت نامه برای دانش پذیران دوره ارسال کنید."
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-events/classes/events_class.php:465
+msgid "Reminder Message successfully sent to "
+msgstr "پیام یادآور با موفقیت ارسال شد به "
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-events/classes/events_class.php:488
+msgid "Invitation accepted."
+msgstr "دعوت قبول شد"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-events/classes/events_class.php:491
+msgid "Unable to accept invitation."
+msgstr "نمی تواند دعوت را قبول کند"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-events/classes/events_class.php:494
+msgid "Student Accepted Event Invitation "
+msgstr "دانش پذیری که دعوت رویداد را قبول کرده"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-events/classes/events_class.php:495
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-events/classes/events_class.php:508
+msgid "Student "
+msgstr "دانش پذیر"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-events/classes/events_class.php:495
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-events/classes/events_class.php:508
+msgid " accepted invitation for Event "
+msgstr "دعوت قبول شده برای رویداد"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-events/classes/events_class.php:504
+msgid "Invitation rejected."
+msgstr "دعوت رد شد"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-events/classes/events_class.php:507
+msgid "Student Rejected Event Invitation "
+msgstr "دانش پذیر دعوت رویداد را رد کرد"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-events/classes/events_class.php:515
+msgid "Unable to reject invitation."
+msgstr "نمی تواند دعوت را رد کند"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-events/classes/events_class.php:526
+msgid "Invitation Responses"
+msgstr "پاسخ های دعوت"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-events/classes/events_class.php:540
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-events/classes/events_class.php:545
+msgid "ACCEPTED"
+msgstr "قبول شده"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-events/classes/events_class.php:540
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-events/classes/events_class.php:546
+msgid "REJECTED"
+msgstr "رد شده"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-events/classes/events_class.php:540
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-events/classes/events_class.php:547
+msgid "AWAITING RESPONSE"
+msgstr "در انتظار پاسخ"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-events/classes/events_class.php:544
+msgid "INVITATION RESULTS"
+msgstr "نتایج دعوت"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-events/classes/events_class.php:593
+msgid "GET ACCESS TO THIS EVENT"
+msgstr "دسترسی به این رویداد"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-events/classes/events_widget.php:15
+msgid "WPLMS Events Widget"
+msgstr "ویجت رویدادهای WPLMS"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-events/classes/events_widget.php:120
+msgid "To"
+msgstr "به"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-events/classes/events_widget.php:147
+msgid "No Events in next "
+msgstr "هیچ رویدادی در ادامه وجود ندارد"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-events/classes/events_widget.php:147
+msgid " days"
+msgstr "روز"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-events/classes/events_widget.php:195
+msgid "Widget Title"
+msgstr "عنوان ویجت"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-events/classes/events_widget.php:196
+msgid "Date Range (from Today to X Days)"
+msgstr "محدوره زمانی (از امروز تا X روز)"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-events/classes/events_widget.php:198
+msgid "Show Events Starting in range"
+msgstr "نمایش رویدادهایی که در محدوده زمانی شروع می شوند"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-events/classes/events_widget.php:201
+msgid "Show Events Ending in range"
+msgstr "نمایش رویدادهایی که در محدوده زمانی تمام می شوند"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-events/classes/events_widget.php:203
+msgid "Style"
+msgstr "استایل "
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-events/classes/events_widget.php:205
+msgid "List"
+msgstr "فهرست"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-events/classes/events_widget.php:206
+msgid "Single"
+msgstr "تنها"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-events/classes/events_widget.php:207
+msgid "Carousel"
+msgstr "چرخشی"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-events/classes/events_widget.php:210
+msgid "Select Event type (optional)"
+msgstr "انتخاب نوع رویداد"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-events/classes/events_widget.php:226
+msgid "Order By"
+msgstr "مرتب شده بر اساس"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-events/classes/events_widget.php:228
+msgid "Default (Publish Date)"
+msgstr "پیش فرض (تاریخ انتشار)"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-events/classes/events_widget.php:229
+msgid "Random"
+msgstr "رندوم"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-events/classes/events_widget.php:230
+msgid "Name"
+msgstr "نام"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-events/classes/events_widget.php:233
+msgid "Sort "
+msgstr "مرتب کردن"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-events/classes/events_widget.php:235
+msgid "Ascending"
+msgstr "افزایشی"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-events/classes/events_widget.php:236
+msgid "Decending"
+msgstr "کاهشی"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-events/classes/events_widget.php:239
+msgid "Specific Events (enter comma saperated ids)"
+msgstr "وقایع خاص (ID ها را با کامای انگلیسی از هم جدا کنید)"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-events/classes/events_widget.php:240
+msgid "Maxmium Number of Events to show"
+msgstr "حداکثر تعداد رویدادهای قابل نمایش"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-events/classes/events_widget.php:242
+msgid "Show Course Events (on Course pages)"
+msgstr "نمایش رویداد های دوره (در برگه های دوره)"

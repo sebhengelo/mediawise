@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="200px" height="355px" viewBox="0 0 200 355" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.2.2 (9983) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 2</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Homepage-(docenten)-3" sketch:type="MSArtboardGroup" transform="translate(-620.000000, -384.000000)">
+            <g id="Group-2" sketch:type="MSLayerGroup" transform="translate(620.000000, 384.000000)">
+                <path d="M200,321.71875 C200,340.101094 185.072222,355 166.666667,355 L33.3333333,355 C14.9277778,355 0,340.101094 0,321.71875 L0,33.28125 C0,14.9044531 14.9277778,0 33.3333333,0 L166.666667,0 C185.072222,0 200,14.9044531 200,33.28125 L200,321.71875 Z" id="Fill-3262" fill="#FFFFFF" sketch:type="MSShapeGroup"></path>
+                <path d="M188.888889,288.4375 L11.1111111,288.4375 L11.1111111,66.5625 L188.888889,66.5625 L188.888889,288.4375 Z" id="Fill-3263" fill="#212121" sketch:type="MSShapeGroup"></path>
+                <path d="M66.6666667,38.828125 C66.6666667,41.8955469 64.1777778,44.375 61.1111111,44.375 C58.0444444,44.375 55.5555556,41.8955469 55.5555556,38.828125 C55.5555556,35.76625 58.0444444,33.28125 61.1111111,33.28125 C64.1777778,33.28125 66.6666667,35.76625 66.6666667,38.828125" id="Fill-3264" fill="#CFD3D4" sketch:type="MSShapeGroup"></path>
+                <path d="M144.444444,38.828125 C144.444444,41.8955469 141.955556,44.375 138.888889,44.375 L83.3333333,44.375 C80.2666667,44.375 77.7777778,41.8955469 77.7777778,38.828125 C77.7777778,35.76625 80.2666667,33.28125 83.3333333,33.28125 L138.888889,33.28125 C141.955556,33.28125 144.444444,35.76625 144.444444,38.828125" id="Fill-3265" fill="#CFD3D4" sketch:type="MSShapeGroup"></path>
+                <path d="M122.222222,321.71875 C122.222222,333.977344 112.272222,343.90625 100,343.90625 C87.7277778,343.90625 77.7777778,333.977344 77.7777778,321.71875 C77.7777778,309.465703 87.7277778,299.53125 100,299.53125 C112.272222,299.53125 122.222222,309.465703 122.222222,321.71875" id="Fill-3266" fill="#CFD3D4" sketch:type="MSShapeGroup"></path>
+                <path d="M111.111111,332.8125 L88.8888889,332.8125 L88.8888889,310.625 L111.111111,310.625 L111.111111,332.8125 Z" id="Fill-3267" fill="#FFFFFF" sketch:type="MSShapeGroup"></path>
+                <path d="M188.888889,92.504125 L188.888889,66.5613906 L11.1111111,66.5613906 L11.1111111,270.004125 L188.888889,92.504125 Z" id="Fill-3268" fill="#5B5C5F" sketch:type="MSShapeGroup"></path>
+            </g>
+        </g>
+    </g>
+</svg>

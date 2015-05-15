@@ -1,0 +1,27 @@
+** 	Code aan .htaccess toegevoegd zodat er geen blanco pagina verschijnt bij het plaatsen of wijzigen van berichten. 
+	php_flag output_buffering on
+
+** 	Start cursus-knop toegevoegd aan cursusoverzicht
+	Toegevoegd aan /plugins/vibe-customthemes/includes/features.php:
+
+	Regel 83: $return .=apply_filters('wplms_course_thumb_extras','<div class="button">Start cursus</div>'); // Use this filter to add Extra HTML to the course featured block
+
+	(Origineel staat in de map /plugins (backup)/vibe-customthemes/includes)
+
+** 	Round Progress bars gecentreerd
+	Toegevoegd aan /plugins/vibe-shortcodes/shortcodes.php
+	Regel 290: margin-left: auto; margin-right: auto
+
+** Dashboard-statistieken voor totaaloverzicht gemaakt per competentie
+	1. Kopie van plugins/wplms-dashboard/includes/student/dash-stats.php gemaakt
+	2. Kopie aangepast en verplaatst naar child-directory (widgets/competentie_stats.php)
+
+=============================
+TO DO
+
+1. Gebruikersrol kiezen bij inloggen (docent of student)
+2. Homepage afhankelijk van gebruiker
+3. Lesformulier doorlopende opties oplossen
+4. Bevestigingspagina na invullen lesformulier
+5. Lesoverzicht: aantal tekens begrenzen
+6. Punten toevoegen aan badges op badge-overzicht

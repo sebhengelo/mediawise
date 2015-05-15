@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="175px" height="175px" viewBox="0 0 175 175" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.2.2 (9983) - http://www.bohemiancoding.com/sketch -->
+    <title>b_10cursussen</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Artboard-16" sketch:type="MSArtboardGroup" transform="translate(-340.000000, -212.000000)">
+            <g id="b_10cursussen" sketch:type="MSLayerGroup" transform="translate(348.000000, 220.000000)">
+                <circle id="Oval-115" stroke="#9E9E9E" stroke-width="8" fill="#CCCCCC" sketch:type="MSShapeGroup" cx="79.5" cy="79.5" r="79.5"></circle>
+                <g id="Group-3" transform="translate(38.000000, 49.000000)" sketch:type="MSShapeGroup">
+                    <path d="M82.25,53.25 C82.25,56.5174792 79.6194687,59.1666667 76.375,59.1666667 L17.625,59.1666667 C14.3805313,59.1666667 11.75,56.5174792 11.75,53.25 L11.75,17.75 C11.75,14.4825208 14.3805313,11.8333333 17.625,11.8333333 L76.375,11.8333333 C79.6194687,11.8333333 82.25,14.4825208 82.25,17.75 L82.25,53.25 Z" id="Fill-5327" fill="#9E9E9E"></path>
+                    <path d="M70.5,41.4166667 C70.5,44.6841458 67.8694687,47.3333333 64.625,47.3333333 L5.875,47.3333333 C2.63053125,47.3333333 0,44.6841458 0,41.4166667 L0,5.91666667 C0,2.6491875 2.63053125,0 5.875,0 L64.625,0 C67.8694687,0 70.5,2.6491875 70.5,5.91666667 L70.5,41.4166667 Z" id="Fill-5328" fill="#FFFFFF"></path>
+                    <path d="M5.875,0 C2.63053125,0 0,2.6491875 0,5.91666667 L0,11.8333333 L70.5,11.8333333 L70.5,5.91666667 C70.5,2.6491875 67.8694687,0 64.625,0 L5.875,0 Z" id="Fill-5330" fill="#9E9E9E"></path>
+                </g>
+                <circle id="Oval-118" stroke="#9E9E9E" stroke-width="8" sketch:type="MSShapeGroup" cx="79.5" cy="79.5" r="71.5"></circle>
+            </g>
+        </g>
+    </g>
+</svg>
