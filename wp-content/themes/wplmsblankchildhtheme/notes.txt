@@ -25,3 +25,5 @@ TO DO
 4. Bevestigingspagina na invullen lesformulier
 5. Lesoverzicht: aantal tekens begrenzen
 6. Punten toevoegen aan badges op badge-overzicht
+
+Test Github
