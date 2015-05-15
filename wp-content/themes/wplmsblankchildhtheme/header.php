@@ -62,7 +62,7 @@ wp_head();
                         
                             <a class="header-logo" href="<?php echo vibe_site_url(); ?>">mediawise</a>
                         
-                        <div id="searchicon"><i class="icon-search-2"></i></div>
+                        <div id="searchicon"><i class="icon-search-2"></i><span><?php echo do_shortcode( '[mycred_my_balance]' ); ?></span></div>
                         <?php
                             if ( function_exists('bp_loggedin_user_link') && is_user_logged_in() ) :
                                 ?>
