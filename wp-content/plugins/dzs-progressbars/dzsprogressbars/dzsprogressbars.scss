@@ -1,0 +1,68 @@
+
+@mixin apply_transition($transition-property, $transition-duration, $transition-timing) {
+  transition-property: $transition-property;transition-duration: $transition-duration;-moz-transition-property:$transition-property;-moz-transition-duration: $transition-duration;-webkit-transition-property:$transition-property;-webkit-transition-duration: $transition-duration;-o-transition-property:$transition-property;-o-transition-duration: $transition-duration;-ms-transition-property:$transition-property;
+  -ms-transition-duration: $transition-duration;-ms-transition-timing-function:$transition-timing;
+
+  @if $transition-timing == ease-out-quart {
+    -webkit-transition-timing-function: cubic-bezier(0.165, 0.840, 0.440, 1.000);
+    -moz-transition-timing-function: cubic-bezier(0.165, 0.840, 0.440, 1.000);
+    -o-transition-timing-function: cubic-bezier(0.165, 0.840, 0.440, 1.000);
+    transition-timing-function: cubic-bezier(0.165, 0.840, 0.440, 1.000);
+  } @else {
+    -webkit-transition-timing-function:$transition-timing;
+    -moz-transition-timing-function:$transition-timing;
+    -o-transition-timing-function:$transition-timing;
+    transition-timing-function: $transition-timing;
+  }
+}
+@mixin boxsizing() {
+  -moz-box-sizing:    border-box;   -webkit-box-sizing: border-box;    box-sizing:        border-box;
+}
+
+
+$transition-property: opacity;
+$transition-duration: 1s;
+$transition-timing: ease-out-quart;
+
+.dzs-progress-bar{
+  position: relative;
+  font-family: "Open Sans", sans-sarif;
+  font-weight: 300;
+  opacity: 0;
+  @include apply_transition($transition-property, $transition-duration, $transition-timing);
+  @include boxsizing();
+  *{
+
+    @include boxsizing();
+  }
+  div.progress-bars-item{
+    width: 0%;
+    height: 50px;
+  }
+
+  div.progress-bars-item--text{
+    line-height: 1.1;
+  }
+}
+.dzs-progress-bar.started{
+  opacity: 1;
+}
+
+
+.padding5 {
+  padding: 3px;
+}
+.small-arrow-bot:after{
+  content:"";
+  width: 0;
+  height: 0;
+
+  border-left: 5px solid transparent;
+  border-right: 5px solid transparent;
+  border-top: 5px solid #111;
+
+  position: absolute;
+  top: 100%;
+  margin-left: -3px;
+  left: 50%;
+}

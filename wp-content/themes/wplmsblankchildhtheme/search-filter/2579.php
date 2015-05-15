@@ -29,7 +29,7 @@ if ( $query->have_posts() )
 					<div class="thumbtitle group">
 						<a href="<?php the_permalink(); ?>"><div class="thumbnail-cursus" style="background-image: url(<? echo $thumb_url; ?>);">
 						</div></a>
-						<div class="lessen-content">
+						<div class="cursus-content">
 							<h5><a href="<?php the_permalink(); ?>">
 								<?php the_title(); ?></a>
 							</h5>

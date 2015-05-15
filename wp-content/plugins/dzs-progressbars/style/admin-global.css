@@ -1,0 +1,8 @@
+#toplevel_page_dzsprg_builder .wp-menu-image{
+    background: transparent url(img/icon.png) center center no-repeat;
+}#toplevel_page_dzsprg_builder:hover .wp-menu-image{
+     background: transparent url(img/icon-hover.png) center center no-repeat;
+ }
+#toplevel_page_dzsprg_builder.wp-menu-open .wp-menu-image{
+    background: transparent url(img/icon-hover.png) center center no-repeat;
+}

@@ -31,14 +31,12 @@ if ( $query->have_posts() )
 					<a href="<?php the_permalink(); ?>"><img class="thumbnail-badge" src="<? echo $thumb_url; ?>"</img></a>
 				</div>
 				<div class="badge-content">
-					<div class="badge-content">
 						<h6><a href="<?php the_permalink(); ?>">
 							<?php the_title(); ?></a>
 						</h6>
 						<div class="badge-omschrijving">
 							<p><?php the_excerpt(); ?></p>
 						</div>
-					</div>	
 				</div>
 			</div>
 		</div>
